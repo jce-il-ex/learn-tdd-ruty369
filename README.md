@@ -442,7 +442,7 @@ Commit the report, as well.
 For more details concerning Travis CI check out the tutorial:
 https://github.com/dwyl/learn-travis
 
-> Visit: https://travis-ci.org/profile
+> Visit: https://travis-ci.org/jce-il-ex/learn-tdd-ruty369
 > Enable Travis for your project
 
 ![Travis Enabled](https://raw.github.com/jce-il/learn-mocha/master/images/travis-on.png "Travis Enabled")
